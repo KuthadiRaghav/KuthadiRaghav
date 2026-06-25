@@ -79,12 +79,6 @@ If you're interested in AI products, enterprise innovation, or product strategy,
 
 <br/>
 
-<!-- GitHub Readme Stats -->
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuthadiRaghav&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&border_color=30363d)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuthadiRaghav&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&border_color=30363d)
-
 <!-- Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuthadiRaghav&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff6b6b&ring=58a6ff&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=79c0ff&dates=79c0ff)
 
