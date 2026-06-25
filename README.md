@@ -66,3 +66,23 @@ Technology evolves quickly, and I'm constantly exploring new ideas around:
 If you're interested in AI products, enterprise innovation, or product strategy, I'd love to connect.
 
 * LinkedIn: linkedin.com/in/raghavendrakuthadi
+
+<!-- Badges -->
+![Followers](https://img.shields.io/github/followers/KuthadiRaghav?label=Followers&style=social)
+![Repo Stars](https://img.shields.io/github/stars/KuthadiRaghav/KuthadiRaghav?style=social)
+![Forks](https://img.shields.io/github/forks/KuthadiRaghav/KuthadiRaghav?style=social)
+
+<!-- GitHub Readme Stats -->
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuthadiRaghav&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuthadiRaghav&layout=compact&hide_border=true&theme=radical)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuthadiRaghav&theme=radical&hide_border=true)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KuthadiRaghav&theme=react-dark&hide_border=true)
+
+<!-- Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=KuthadiRaghav&theme=juicyfresh&margin-w=15)
