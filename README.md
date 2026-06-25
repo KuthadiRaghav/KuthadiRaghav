@@ -88,16 +88,6 @@ If you're interested in AI products, enterprise innovation, or product strategy,
 <!-- Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuthadiRaghav&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff6b6b&ring=58a6ff&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=79c0ff&dates=79c0ff)
 
-<!-- Activity Graph - Alternative Service -->
-<a href="https://github.com/KuthadiRaghav">
-  <img alt="KuthadiRaghav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KuthadiRaghav&theme=github-dark&hide_border=true&area=true" />
-</a>
-
-<!-- Trophies - Improved rendering -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=KuthadiRaghav&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
-</a>
-
 <br/>
 
 ---
