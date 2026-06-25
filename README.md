@@ -80,20 +80,32 @@ If you're interested in AI products, enterprise innovation, or product strategy,
 <br/>
 
 <!-- GitHub Readme Stats -->
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuthadiRaghav&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuthadiRaghav&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&border_color=30363d)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuthadiRaghav&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&text_color=e6edf3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuthadiRaghav&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&border_color=30363d)
 
 <!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuthadiRaghav&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff6b6b&ring=58a6ff&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=79c0ff&dates=79c0ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuthadiRaghav&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff6b6b&ring=58a6ff&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=79c0ff&dates=79c0ff)
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KuthadiRaghav&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3)
+<!-- Activity Graph - Alternative Service -->
+<a href="https://github.com/KuthadiRaghav">
+  <img alt="KuthadiRaghav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KuthadiRaghav&theme=github-dark&hide_border=true&area=true" />
+</a>
 
-<!-- Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=KuthadiRaghav&theme=nord&margin-w=15&margin-h=15&no-bg=true)
+<!-- Trophies - Improved rendering -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=KuthadiRaghav&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
+</a>
+
+<br/>
 
 ---
 
-**Last Updated:** 2026-06-25 | **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=KuthadiRaghav&color=blue&style=flat-square)
+<div align="center">
+
+**Last Updated:** 2026-06-25
+
+*Open to discussions about AI Products, Enterprise Strategy, and LLM Applications*
+
+</div>
