@@ -2,13 +2,10 @@
 
 ### Senior Product Manager – AI Innovation & Portfolio Enablement @ GHX
 
-I build AI-powered enterprise products that help organizations transform ideas into measurable business outcomes.
+I build AI-powered products that solve real-world business problems by combining product strategy, customer insights, and advances in Generative AI. From identifying high-impact opportunities to defining product vision and delivering production-ready solutions, I focus on creating AI experiences that drive measurable customer and business value.
 
-My background spans product strategy, healthcare supply chain, enterprise SaaS, and Generative AI. I enjoy turning emerging AI capabilities into practical products by combining customer discovery, product thinking, and modern AI engineering.
+My experience spans AI product management, enterprise SaaS, healthcare supply chain, and digital transformation. I'm particularly passionate about Large Language Models (LLMs), AI agents, context engineering, and building intelligent systems that augment human decision-making.
 
-Currently focused on building intelligent applications using LLMs, AI agents, context engineering, MCP, and agentic workflows.
-
----
 
 ## Current Focus
 
